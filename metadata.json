@@ -2,17 +2,18 @@
   "name": "DISPOSSIBLE",
   "symbol": "DISPO",
   "description": "I got Failed on English but that's DISPOssible.",
+  "seller_fee_basis_points": 0,
   "image": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_MASTER_1024.png",
-  "extensions": {
-    "banner": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_BANNER.jpg"
-  },
-  "attributes": [],
+  "banner_image": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_BANNER.jpg",
+  "external_url": "https://x.com/dispossible_",
+  "attributes": [
+    {"trait_type": "Social", "value": "X: @dispossible_"}
+  ],
+  "collection": null,
   "properties": {
     "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_MASTER_1024.png",
-        "type": "image/png"
-      }
+      {"uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_MASTER_1024.png", "type": "image/png"},
+      {"uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_BANNER.jpg", "type": "image/jpeg"}
     ],
     "category": "image"
   }
