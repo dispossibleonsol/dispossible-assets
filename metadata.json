@@ -1,19 +1,26 @@
 {
   "name": "DISPOSSIBLE",
   "symbol": "DISPO",
-  "description": "I got Failed on English but that's DISPOssible.",
-  "seller_fee_basis_points": 0,
+  "description": "I got Failed on English but that's DISPOSSIBLE.",
+  "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_MASTER_1024.png",
-  "banner_image": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_BANNER.jpg",
   "external_url": "https://x.com/dispossible_",
-  "attributes": [
-    {"trait_type": "Social", "value": "X: @dispossible_"}
-  ],
-  "collection": null,
   "properties": {
+    "creators": [
+      {
+        "address": "AnJ5z2nLPTfqFqYdr3TzHuXnDB2AAv8Z8nj6s96MVLQz",
+        "share": 100
+      }
+    ],
     "files": [
-      {"uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_MASTER_1024.png", "type": "image/png"},
-      {"uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_BANNER.jpg", "type": "image/jpeg"}
+      {
+        "uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_MASTER_1024.png",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://raw.githubusercontent.com/dispossibleonsol/dispossible-assets/main/DISPOSSIBLE_BANNER.jpeg",
+        "type": "image/jpeg"
+      }
     ],
     "category": "image"
   }
